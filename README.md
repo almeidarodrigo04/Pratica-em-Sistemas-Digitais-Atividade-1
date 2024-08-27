@@ -16,4 +16,4 @@ Implementação de um master-slave D flip-flop, assim como na parte 2, criamos p
 Implementação de três circuitos: um D-Latch, um positive-edge triggered D flip-flop e um negative-edge triggered D flip-flop, todos compartilhando os mesmos 2 inputs (D e Clk), nessa parte fizemos primeiro o código em VHDL e depois simulamos no ModelSim.
 
 ## Parte 5
-Implmentação de um somador de palavras de 8 bits com uso de flip-flops, utilizamos dois D-Latch's para guardar dois números e enfim somar eles, uitlizamos apenas os esquemáticos do Quartus e testamos em FPGA.
+Implementação de um somador de palavras de 8 bits com uso de flip-flops, utilizamos dois D-Latch's para guardar dois números e enfim somar eles, uitlizamos apenas os esquemáticos do Quartus e testamos em FPGA.
