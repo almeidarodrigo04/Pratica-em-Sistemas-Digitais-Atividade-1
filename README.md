@@ -1,7 +1,5 @@
 # Prática em Sistemas em Digitais - Atividade 1
 
-# Atividade 1
-
 ## Resumo:
 A atividade da semana (semanas 2 e 3) envolveu a aplicação de flip-flop's para guardar valores lógicos em uma memória, utilizando como ferramentas os esquemáticos do Quartus e programação em VHDL.
 
