@@ -1,7 +1,7 @@
 # Prática em Sistemas em Digitais - Atividade 1
 
 ## Resumo:
-A atividade da semana (semanas 2 e 3) envolveu a aplicação de flip-flop's para guardar valores lógicos em uma memória, utilizando como ferramentas os esquemáticos do Quartus e programação em VHDL.
+A atividade da semana (semanas 2 e 3) envolveu a aplicação de flip-flops para guardar valores lógicos em uma memória, utilizando como ferramentas os esquemáticos do Quartus e programação em VHDL.
 
 ## Parte 1
 Implementação de um RS-Lach, nesse caso já nos foi dado o código em VHDL e nós o compilamos no Quartus e também tetsamos em FPGA e no ModelSim.
